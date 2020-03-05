@@ -30,4 +30,4 @@ URN = Universal Resource Name 统一资源名称，通过特定命名空间中�
 目前HTTP规范已经不使用URL，而是使用URI了，所以使用URI准没错！
 
 ## 项目配置教程
-<https://blog.csdn.net/weixin_40304882/article/details/104619865> 
+<https://blog.csdn.net/weixin_40304882/article/details/104619865>
